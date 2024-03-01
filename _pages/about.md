@@ -126,6 +126,8 @@ My research interests include but not limited to deep learning, object pose esti
 - *Teaching assistant (2020 - now)*: Image Processing.
 - *Co-supervisor*: 4 master theses.
 
+<div align="right">Thanks for the template from <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>.</div>
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
