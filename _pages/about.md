@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yangxintong Lyu, a last-year Ph.D. student in Vrije Universiteit Brussel supervised by [Prof. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). I also work closely with [Ir. Remco Royen](https://remcoroyen.github.io/) and [Dr. Ionut Schiopu](https://www.linkedin.com/in/ionutschiopu/?originalSubdomain=fi).
+I'm Yangxintong Lyu, a last-year Ph.D. student in Vrije Universiteit Brussel supervised by [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). I also work closely with [Dr. Ir. Remco Royen](https://remcoroyen.github.io/) and [Dr. Ionut Schiopu](https://www.linkedin.com/in/ionutschiopu/?originalSubdomain=fi).
+<!-- I'm Yangxintong Lyu, a last-year Ph.D. student in Vrije Universiteit Brussel supervised by [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). I also work closely with [Dr. Ir. Remco Royen](https://remcoroyen.github.io/) and [Dr. Ionut Schiopu](https://www.linkedin.com/in/ionutschiopu/?originalSubdomain=fi). -->
 
 My research interests include but not limited to deep learning, object pose estimation, image semantic segmentation, 2D/3D vision, and domain adaptation. During my Ph.D., my research mainly focus on deep learning based multi-modal scene understanding for traffic camera. 
 
@@ -26,11 +27,11 @@ My research interests include but not limited to deep learning, object pose esti
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2019.07 - 2024.09 (expected)*, Vrije Universiteit Brussel, Ph.D..
+- *2019.07 - 2024.06*, Vrije Universiteit Brussel, Ph.D..
 - *2016.09 - 2018.06*, Vrije Universiteit Brussel, Master. 
 - *2013.08 - 2017.06*, Xidian University, Bachelor.
 
-<span class='anchor' id='experience'></span>
+<span class='anchor' id='experiences'></span>
 # 🧗🏻‍♀️ Experience
 - *2018.08 - 2019.05*, R&D Engineer, FABU Technology Co. Ltd.. 
 - *2017.06 - 2018.06*, Student research assistant, Vrije Universiteit Brussel.
@@ -49,7 +50,7 @@ My research interests include but not limited to deep learning, object pose esti
 
 *IEEE Transactions on Instrumentation and Measurement*
 
-[**Code**]()|[**Paper**](https://ieeexplore.ieee.org/abstract/document/10443331)
+[**Code**](https://github.com/YangLyu-123/TIM-W6DNet)|[**Paper**](https://ieeexplore.ieee.org/abstract/document/10443331)
 </div>
 </div>
 
