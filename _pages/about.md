@@ -32,7 +32,7 @@ My research interests include but not limited to deep learning, object pose esti
 - *2013.08 - 2017.06*, Xidian University, Bachelor.
 
 <span class='anchor' id='experiences'></span>
-# 🧗🏻‍♀️ Experience
+# 🧗🏻‍♀️ Experiences
 - *2018.08 - 2019.05*, R&D Engineer, FABU Technology Co. Ltd.. 
 - *2017.06 - 2018.06*, Student research assistant, Vrije Universiteit Brussel.
 
