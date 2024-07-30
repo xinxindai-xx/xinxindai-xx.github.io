@@ -17,24 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yangxintong Lyu, a last-year Ph.D. student in Vrije Universiteit Brussel supervised by [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). I also work closely with [Dr. Ir. Remco Royen](https://remcoroyen.github.io/) and [Dr. Ionut Schiopu](https://www.linkedin.com/in/ionutschiopu/?originalSubdomain=fi).
 <!-- I'm Yangxintong Lyu, a last-year Ph.D. student in Vrije Universiteit Brussel supervised by [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). I also work closely with [Dr. Ir. Remco Royen](https://remcoroyen.github.io/) and [Dr. Ionut Schiopu](https://www.linkedin.com/in/ionutschiopu/?originalSubdomain=fi). -->
+<!-- I'm a post-doc researcher at the Department of Electronics and Informatics in Vrije Universiteit Brussel. Before that, I did my Ph.D research, entitled 'Deep-learing-based multi-modal fusion for traffic image data processing', with [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). During my Ph.D, I was involved in a research project with close collaboration of [Macq S.A./N.V.](https://mobility.macq.eu/). In 2018, I worked as a computer vision researcher in a autonomous driving startup company, [FABU](https://www.fabu.ai/). I received my master degree from VUB and my bachelor degree from Xidian University, respectively. -->
+I am a postdoctoral researcher at the Department of Electronics and Informatics at Vrije Universiteit Brussel. Previously, I completed my Ph.D. research, titled "Deep-Learning-Based Multi-Modal Fusion for Traffic Image Data Processing," under the supervision of [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). During my Ph.D., I participated in research projects in collaborations with [Macq S.A./N.V.](https://mobility.macq.eu/) and [FILR](https://www.flir.eu/). In 2018, I worked as a computer vision researcher at the autonomous driving startup [FABU](https://www.fabu.ai/). I hold a master's degree in Applied Computer Science from Vrije Universiteit Brussel and a bachelor's degree in Computer Science from Xidian University.
 
-My research interests include but not limited to deep learning, object pose estimation, image semantic segmentation, 2D/3D vision, and domain adaptation. During my Ph.D., my research mainly focus on deep learning based multi-modal scene understanding for traffic camera. 
+My research interests include but not limited to deep learning, object pose estimation, image semantic segmentation, 2D/3D vision, and domain adaptation. During my Ph.D., my research mainly focus on deep learning based multi-modal data fusion for traffic relevant tasks.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2019.07 - 2024.06*, Vrije Universiteit Brussel, Ph.D..
-- *2016.09 - 2018.06*, Vrije Universiteit Brussel, Master. 
-- *2013.08 - 2017.06*, Xidian University, Bachelor.
+- *2019.07 - 2024.06*, Vrije Universiteit Brussel, Ph.D., with the highest distinction.
+- *2016.09 - 2018.06*, Vrije Universiteit Brussel, Master, with great distinction. 
+- *2013.08 - 2017.06*, Xidian University, Bachelor, ranked 4/440.
 
 <span class='anchor' id='experience'></span>
 # 🧗🏻‍♀️ Experience
-- *2018.08 - 2019.05*, R&D Engineer, FABU Technology Co. Ltd.. 
+- *2024.06 - Now*, Post-Doc, Vrije Universiteit Brussel.
+- *2019.07 - 2024.06*, Ph.D. researcher, Vrije Universiteit Brussel.
+- *2018.08 - 2019.05*, R&D engineer, FABU Technology Co. Ltd.. 
 - *2017.06 - 2018.06*, Student research assistant, Vrije Universiteit Brussel.
+- *2016.09 - 2017.06*, Extrange student, Vrije Universiteit Brussel.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
@@ -110,6 +114,12 @@ My research interests include but not limited to deep learning, object pose esti
 </div>
 </div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**  -->
+
+- [DeepKalPose: An enhanced deep‐learning Kalman filter for temporally consistent monocular vehicle pose estimation](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ell2.13191), Leandro Di Bella, **Yangxintong Lyu**, Adrian Munteanu, *Electronics Letters*
+
+- [STRADA: Spatial-Temporal Dashboard for traffic forecasting](https://ieeexplore.ieee.org/document/10591664), Seyed Mohamad Mohadas, **Yangxintong Lyu**, Bruno Cornelis, Adrian Munteanu, *25th IEEE International Conference on Mobile Data Management (MDM) 2024*
+
+- [MonoKalman: Monocular Vehicle Pose Estimation with Kalman Filter-based temporal consistency](https://ieeexplore.ieee.org/abstract/document/10591655), Leandro Di Bella, **Yangxintong Lyu**, Bruno Cornelis, Adrian Munteanu, *25th IEEE International Conference on Mobile Data Management (MDM) 2024*
 
 - [Mono6D++: Learning Point Cloud Visibility for 3D Prior-based Vehicle 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10323075/), **Yangxintong Lyu**, Olivier Ducastel, Remco Royen, Adrian Munteanu, *11th European Workshop on Visual Information Processing (EUVIP) 2023*
 
