@@ -19,7 +19,7 @@ redirect_from:
 
 <!-- I'm Yangxintong Lyu, a last-year Ph.D. student in Vrije Universiteit Brussel supervised by [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). I also work closely with [Dr. Ir. Remco Royen](https://remcoroyen.github.io/) and [Dr. Ionut Schiopu](https://www.linkedin.com/in/ionutschiopu/?originalSubdomain=fi). -->
 <!-- I'm a post-doc researcher at the Department of Electronics and Informatics in Vrije Universiteit Brussel. Before that, I did my Ph.D research, entitled 'Deep-learing-based multi-modal fusion for traffic image data processing', with [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). During my Ph.D, I was involved in a research project with close collaboration of [Macq S.A./N.V.](https://mobility.macq.eu/). In 2018, I worked as a computer vision researcher in a autonomous driving startup company, [FABU](https://www.fabu.ai/). I received my master degree from VUB and my bachelor degree from Xidian University, respectively. -->
-I am a postdoctoral researcher at the Department of Electronics and Informatics at Vrije Universiteit Brussel. Previously, I completed my Ph.D. research, titled "Deep-Learning-Based Multi-Modal Fusion for Traffic Image Data Processing," under the supervision of [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). During my Ph.D., I participated in research projects in collaborations with [Macq S.A./N.V.](https://mobility.macq.eu/) and [FILR](https://www.flir.eu/). In 2018, I worked as a computer vision researcher at the autonomous driving startup [FABU](https://www.fabu.ai/). I hold a master's degree in Applied Computer Science from Vrije Universiteit Brussel and a bachelor's degree in Computer Science from Xidian University.
+I am a postdoctoral researcher at the Department of Electronics and Informatics at Vrije Universiteit Brussel. Previously, I completed my Ph.D. research, titled "Deep-Learning-Based Multi-Modal Fusion for Traffic Image Data Processing," under the supervision of [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). During my Ph.D., I participated in research projects in collaborations with [Macq S.A./N.V.](https://mobility.macq.eu/) and [FLIR](https://www.flir.eu/). In 2018, I worked as a computer vision researcher at the autonomous driving startup [FABU](https://www.fabu.ai/). I hold a master's degree in Applied Computer Science from Vrije Universiteit Brussel and a bachelor's degree in Computer Science from Xidian University.
 
 My research interests include but not limited to deep learning, object pose estimation, image semantic segmentation, 2D/3D vision, and domain adaptation. During my Ph.D., my research mainly focus on deep learning based multi-modal data fusion for traffic relevant tasks.
 
@@ -50,7 +50,7 @@ My research interests include but not limited to deep learning, object pose esti
 
 **W6DNet: Weakly-supervised Domain Adaptation for Monocular Vehicle 6D Pose Estimation with 3D Priors and Synthetic Data**
 
-**Yangxintong Lyu**, Remco Royen, Adrian Munteanu
+**Yangxintong Lyu**, [Remco Royen](https://remcoroyen.github.io/), Adrian Munteanu
 
 *IEEE Transactions on Instrumentation and Measurement*
 
@@ -64,7 +64,7 @@ My research interests include but not limited to deep learning, object pose esti
 
 **Mono6D: Monocular vehicle 6D pose estimation with 3D priors**
 
-**Yangxintong Lyu**, Remco Royen, Adrian Munteanu
+**Yangxintong Lyu**, [Remco Royen](https://remcoroyen.github.io/), [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
 
 *IEEE International Conference on Image Processing (ICIP)*
 
@@ -78,7 +78,7 @@ My research interests include but not limited to deep learning, object pose esti
 
 **Multi-modal neural networks with multi-scale RGB-T fusion for semantic segmentation**
 
-**Yangxintong Lyu**, Ionut Schiopu, Adrian Munteanu
+**Yangxintong Lyu**, Ionut Schiopu, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
 
 *IET Electronics Letters*
 
@@ -92,7 +92,7 @@ My research interests include but not limited to deep learning, object pose esti
 
 **Consistent video projection on curved displays**
 
-**Yangxintong Lyu**, Shao-Ping Lu, Quentin Bolsee, Adrian Munteanu
+**Yangxintong Lyu**, Shao-Ping Lu, Quentin Bolsee, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
 
 *Elsvier Signal Processing: Image Communication*
 
@@ -106,7 +106,7 @@ My research interests include but not limited to deep learning, object pose esti
 
 **Framework for Vehicle Make and Model Recognition—A New Large-Scale Dataset and an Efficient Two-Branch–Two-Stage Deep Learning Architecture**
 
-**Yangxintong Lyu**, Ionut Schiopu, Bruno Cornelis, Adrian Munteanu
+**Yangxintong Lyu**, Ionut Schiopu, Bruno Cornelis, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
 
 *MDPI Sensors*
 
@@ -115,15 +115,15 @@ My research interests include but not limited to deep learning, object pose esti
 </div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**  -->
 
-- [DeepKalPose: An enhanced deep‐learning Kalman filter for temporally consistent monocular vehicle pose estimation](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ell2.13191), Leandro Di Bella, **Yangxintong Lyu**, Adrian Munteanu, *Electronics Letters*
+- [DeepKalPose: An enhanced deep‐learning Kalman filter for temporally consistent monocular vehicle pose estimation](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ell2.13191), Leandro Di Bella, **Yangxintong Lyu**, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *Electronics Letters*
 
-- [STRADA: Spatial-Temporal Dashboard for traffic forecasting](https://ieeexplore.ieee.org/document/10591664), Seyed Mohamad Mohadas, **Yangxintong Lyu**, Bruno Cornelis, Adrian Munteanu, *25th IEEE International Conference on Mobile Data Management (MDM) 2024*
+- [STRADA: Spatial-Temporal Dashboard for traffic forecasting](https://ieeexplore.ieee.org/document/10591664), Seyed Mohamad Mohadas, **Yangxintong Lyu**, Bruno Cornelis, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *25th IEEE International Conference on Mobile Data Management (MDM) 2024*
 
-- [MonoKalman: Monocular Vehicle Pose Estimation with Kalman Filter-based temporal consistency](https://ieeexplore.ieee.org/abstract/document/10591655), Leandro Di Bella, **Yangxintong Lyu**, Bruno Cornelis, Adrian Munteanu, *25th IEEE International Conference on Mobile Data Management (MDM) 2024*
+- [MonoKalman: Monocular Vehicle Pose Estimation with Kalman Filter-based temporal consistency](https://ieeexplore.ieee.org/abstract/document/10591655), Leandro Di Bella, **Yangxintong Lyu**, Bruno Cornelis, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *25th IEEE International Conference on Mobile Data Management (MDM) 2024*
 
-- [Mono6D++: Learning Point Cloud Visibility for 3D Prior-based Vehicle 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10323075/), **Yangxintong Lyu**, Olivier Ducastel, Remco Royen, Adrian Munteanu, *11th European Workshop on Visual Information Processing (EUVIP) 2023*
+- [Mono6D++: Learning Point Cloud Visibility for 3D Prior-based Vehicle 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10323075/), **Yangxintong Lyu**, Olivier Ducastel, [Remco Royen](https://remcoroyen.github.io/), [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *11th European Workshop on Visual Information Processing (EUVIP) 2023*
 
-- [Occlusion-Aware 3D Priors for Deep Learning-Based Applications](https://ieeexplore.ieee.org/abstract/document/10337644/), Olivier Ducastel, **Yangxintong Lyu**, Leon Denis, Adrian Munteanu, *IEEE International Workshop on Multimedia Signal Processing (MMSP) 2023*
+- [Occlusion-Aware 3D Priors for Deep Learning-Based Applications](https://ieeexplore.ieee.org/abstract/document/10337644/), Olivier Ducastel, **Yangxintong Lyu**, Leon Denis, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *IEEE International Workshop on Multimedia Signal Processing (MMSP) 2023*
 
 <span class='anchor' id='hornors-and-awards'></span>
 # 🎖 Honors and Awards
