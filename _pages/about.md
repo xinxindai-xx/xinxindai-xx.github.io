@@ -38,7 +38,7 @@ My research interests include but not limited to deep learning, object pose esti
 - *2019.07 - 2024.06*, Ph.D. researcher, Vrije Universiteit Brussel.
 - *2018.08 - 2019.05*, R&D engineer, FABU Technology Co. Ltd.. 
 - *2017.06 - 2018.06*, Student research assistant, Vrije Universiteit Brussel.
-- *2016.09 - 2017.06*, Extrange student, Vrije Universiteit Brussel.
+- *2016.09 - 2017.06*, Exchange student, Vrije Universiteit Brussel.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
