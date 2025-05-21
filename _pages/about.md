@@ -40,7 +40,7 @@ My research interests include but not limited to deep learning, object pose esti
 
 <!-- W6DNet -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TIM 2024</div><img src='images/pubs/w6dnet/pipeline.png' onmouseout="this.src='images/pubs/w6dnet/pipeline.png';" onmouseover="this.src='images/pubs/w6dnet/dataset.png';" alt="sym" style="height: auto; width: 100%;" object-fit="contain"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TIM 2024</div><img src='images/pubs/w6dnet/pipeline.png' onmouseout="this.src='images/pubs/w6dnet/pipeline.png';" onmouseover="this.src='images/pubs/w6dnet/dataset.png';" alt="sym" style="height: auto; width: 100%;" object-fit="contain"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **W6DNet: Weakly-supervised Domain Adaptation for Monocular Vehicle 6D Pose Estimation with 3D Priors and Synthetic Data**
@@ -105,7 +105,7 @@ My research interests include but not limited to deep learning, object pose esti
 
 *MDPI Sensors*
 
-[**Paper**](https://www.mdpi.com/1424-8220/22/21/8439)
+[**Paper**](https://www.mdpi.com/1424-8220/22/21/8439)  -->
 </div>
 </div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**  -->
@@ -123,7 +123,7 @@ My research interests include but not limited to deep learning, object pose esti
 
 - [A Deep-learning-based Approach to Automatically Measuring Foots from a 3D scan](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089290), Nastaran Nourbakhsh Kaashki, Remco Royen, **Xinxin Dai**, [Pengpeng Hu](https://ai4engineeringlab.netlify.app/), [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *2022 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)*
 
-<span class='anchor' id='hornors-and-awards'></span>
+<!--<span class='anchor' id='hornors-and-awards'></span>
 <!--# 🎖 Honors and Awards
 - *National Scholarship*, awarded by the Chinese Ministry of Education (*top 1%*). 
 - The 3rd prize in Shaanxi province, ACM/ICPC. 
