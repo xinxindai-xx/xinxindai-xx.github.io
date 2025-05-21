@@ -27,7 +27,7 @@ author:
   location         : "Brussels, Belgium"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ap89J5wAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=zXyRKzoAAAAJ&hl=en"
   email            : "dai_x_x@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xinxin-dai-818977239/?originalSubdomain=be" # e.g., "linkedin username"
+  linkedin         : "xinxin-dai-818977239" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
