@@ -27,17 +27,13 @@ My research interests include but not limited to deep learning, object pose esti
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2019.07 - 2024.06*, Vrije Universiteit Brussel, Ph.D., with the highest distinction.
-- *2016.09 - 2018.06*, Vrije Universiteit Brussel, Master, with great distinction. 
-- *2013.08 - 2017.06*, Xidian University, Bachelor, ranked 4/440.
+- *2020.11 - present*, Vrije Universiteit Brussel, Ph.D.
+- *2016.09 - 2019.06*, Guangdong University of Technology, Master 
 
 <span class='anchor' id='experience'></span>
 # 🧗🏻‍♀️ Experience
-- *2024.06 - Now*, Post-Doc, Vrije Universiteit Brussel.
-- *2019.07 - 2024.06*, Ph.D. researcher, Vrije Universiteit Brussel.
-- *2018.08 - 2019.05*, R&D engineer, FABU Technology Co. Ltd.. 
-- *2017.06 - 2018.06*, Student research assistant, Vrije Universiteit Brussel.
-- *2016.09 - 2017.06*, Exchange student, Vrije Universiteit Brussel.
+- *2020.11 - presnet*, Ph.D. researcher, Vrije Universiteit Brussel.
+- *2019.04 - 2020.09*, Product Solution Engineer, Gosuncn Technology Group. 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
@@ -125,16 +121,16 @@ My research interests include but not limited to deep learning, object pose esti
 - [Occlusion-Aware 3D Priors for Deep Learning-Based Applications](https://ieeexplore.ieee.org/abstract/document/10337644/), Olivier Ducastel, **Yangxintong Lyu**, Leon Denis, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *IEEE International Workshop on Multimedia Signal Processing (MMSP) 2023*
 
 <span class='anchor' id='hornors-and-awards'></span>
-# 🎖 Honors and Awards
+<!--# 🎖 Honors and Awards
 - *National Scholarship*, awarded by the Chinese Ministry of Education (*top 1%*). 
 - The 3rd prize in Shaanxi province, ACM/ICPC. 
-- The 2nd prize in Shaanxi province, Contemporary Undergraduate Mathematical Contest in Modeling.
+- The 2nd prize in Shaanxi province, Contemporary Undergraduate Mathematical Contest in Modeling. -->
 
 <span class='anchor' id='services'></span>
 # 🌟 Services
-- *Reviewer*: IEEE TIP (IF: 10.8), EAAI (IF: 8.0), CVPR and ICIP.
+- *Reviewer*: IEEE TPAMI (IF: 20.8), IEEE TIP (IF: 8.0), IEEE T-ASE (IF 5.9) Computer Graphics Forum (IF:2.7) and Scientific Reports (IF: 3.8).
 - *Teaching assistant (2020 - now)*: Image Processing.
-- *Co-supervisor*: 4 master theses.
+
 
 <div align="right">Thanks for the template from <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>.</div>
 
