@@ -124,7 +124,7 @@ My research interests include but not limited to deep learning, object pose esti
 - [A Deep-learning-based Approach to Automatically Measuring Foots from a 3D scan](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089290), Nastaran Nourbakhsh Kaashki, Remco Royen, **Xinxin Dai**, [Pengpeng Hu](https://ai4engineeringlab.netlify.app/), [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *2022 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)*
 
 <!--<span class='anchor' id='hornors-and-awards'></span>
-<!--# 🎖 Honors and Awards
+# 🎖 Honors and Awards
 - *National Scholarship*, awarded by the Chinese Ministry of Education (*top 1%*). 
 - The 3rd prize in Shaanxi province, ACM/ICPC. 
 - The 2nd prize in Shaanxi province, Contemporary Undergraduate Mathematical Contest in Modeling. -->
