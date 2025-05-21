@@ -17,8 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the supervision of [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/) and [Prof. Dr. Pengpeng Hu](https://ai4engineeringlab.netlify.app/). My research focuses on 3D shape reconstruction, surface reconstruction, and vision-based measurement extraction based on point cloud. Currently, my work centers on non-rigid objects, particularly human hands, with the goal of extending these methods to the full human body, feet, and other complex deformable structures in the future. 
 
-<!-- I am aaaaaa  aaaa   nnnnnnn nnnnnnn nnn mmmmmmm  mmmmm  xxxxxxxxxxxxxx at the Department of Electronics and Informatics at Vrije Universiteit Brussel. Previously, I completed my Ph.D. research, titled "Deep-Learning-Based Multi-Modal Fusion for Traffic Image Data Processing," under the supervision of [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/). During my Ph.D., I participated in research projects in collaborations with [Macq S.A./N.V.](https://mobility.macq.eu/) and [FLIR](https://www.flir.eu/). In 2018, I worked as a computer vision researcher at the autonomous driving startup [FABU](https://www.fabu.ai/). I hold a master's degree in Applied Computer Science from Vrije Universiteit Brussel and a bachelor's degree in Software Engineering from Xidian University.-->
+
+<p><span class="bullet">●</span>Led the transformation of Ph.D. research outcomes into a market-driven Proof of Concept, focusing on dynamic hand size modeling, fit adaptability analysis, and comfort assessment.</p>
 
 <!-- My research interests include but not limited to deep learning, object pose estimation, image semantic segmentation, 2D/3D vision, and domain adaptation. During my Ph.D., my research mainly focus on deep learning based multi-modal data fusion for traffic relevant tasks. -->
 
