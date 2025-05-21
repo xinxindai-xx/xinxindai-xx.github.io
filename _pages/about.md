@@ -118,7 +118,7 @@ My research interests include but not limited to deep learning, object pose esti
 
 - [Mono6D++: Learning Point Cloud Visibility for 3D Prior-based Vehicle 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10323075/), **Yangxintong Lyu**, Olivier Ducastel, [Remco Royen](https://remcoroyen.github.io/), [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *11th European Workshop on Visual Information Processing (EUVIP) 2023*
 
-- [Occlusion-Aware 3D Priors for Deep Learning-Based Applications](https://ieeexplore.ieee.org/abstract/document/10337644/), Olivier Ducastel, **Yangxintong Lyu**, Leon Denis, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *IEEE International Workshop on Multimedia Signal Processing (MMSP) 2023*
+- [A deep learning approach to automatically extract 3d hand measurements](https://dl.acm.org/doi/abs/10.1145/3529399.3529423), Nastaran Nourbakhsh, **Xinxin Dai**, Timea Gyarmathy, [Pengpeng Hu](https://ai4engineeringlab.netlify.app/), Bogdan Iancu, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/), *Proceedings of the 2022 7th International Conference on Machine Learning Technologies*
 
 <span class='anchor' id='hornors-and-awards'></span>
 <!--# 🎖 Honors and Awards
