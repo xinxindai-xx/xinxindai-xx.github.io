@@ -68,7 +68,7 @@ redirect_from:
 - *Teaching assistant (2020 - now)*: Image Processing.
 
 
-<div align="right">Thanks for the template from <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>.</div>
+<!--<div align="right">Thanks for the template from <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>.</div> -->
 
 
 <!-- # 💬 Invited Talks
