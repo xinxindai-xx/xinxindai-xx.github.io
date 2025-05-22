@@ -72,7 +72,7 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">ICIP 2023</div><img src='images/icippipeline.png' onmouseout="this.src='images/icippipeline.png';" onmouseover="this.src='images/icipresult.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">ICIP 2023</div><img src='images/icippipeline.png' onmouseout="this.src='images/icippipeline.png';" onmouseover="this.src='images/icipresult.png';" alt="sym" style="height: auto; width: 100%;" object-fit="contain"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Measure4DHand: Dynamic Hand Measurement Extraction From 4D Scans**
