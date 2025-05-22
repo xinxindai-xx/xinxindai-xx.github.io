@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Research Application"
+    url: "/#-research-application"
+
   - title: "Educations"
     url: "/#-educations"
 
@@ -15,8 +18,6 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Research Application"
-    url: "/#-research-application"
 
   #- title: "Honors and Awards"
   #  url: "/#-honors-and-awards"
