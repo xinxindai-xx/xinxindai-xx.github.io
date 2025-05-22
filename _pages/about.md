@@ -20,7 +20,7 @@ redirect_from:
 I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the supervision of [Prof. Dr. Ir. Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/) and [Prof. Dr. Pengpeng Hu](https://ai4engineeringlab.netlify.app/). My research focuses on 3D shape reconstruction, surface reconstruction, and vision-based measurement extraction based on point cloud. Currently, my work centers on non-rigid objects, particularly human hands, with the goal of extending these methods to the full human body, feet, and other complex deformable structures in the future. 
 
 
-# Research Application
+# 💻 Research Application
 
 <p><span class="bullet">●</span>Hand movement analysis and rehabilitation assessment.</p>
 <p><span class="bullet">●</span>Orthosis design.</p>
