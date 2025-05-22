@@ -43,7 +43,21 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-<!-- W6DNet -->
+
+
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TPAMI Under review</div><img src='images/TPAMIpipeline.png' onmouseout="this.src='images/TPAMIpipelinee.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TailoredTemplateFit: Completing and Reconstructing Surface for Partial Point Clouds via Tailored-Template-Based Neural Fitting**
+
+**Xinxin Dai**, Ran Zhao, [Pengpeng Hu](https://ai4engineeringlab.netlify.app/), [Vasile Palade](https://pureportal.coventry.ac.uk/en/persons/vasile-palade), [Danilo Mandic](https://www.commsp.ee.ic.ac.uk/~mandic/), [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence*
+
+<!-- [**Paper**](https://pure.coventry.ac.uk/ws/portalfiles/portal/77976801/Post-Print.pdf)|**Video** -->
+</div>
+</div>
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TIM 2023</div><img src='images/TIMpipeline.png' onmouseout="this.src='images/TIMpipeline.png';" onmouseover="this.src='images/TIMresult.png';" alt="sym" style="height: auto; width: 100%;" object-fit="contain"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,63 +68,78 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 
 *IEEE Transactions on Instrumentation and Measurement*
 
-[**Paper**](https://pure.coventry.ac.uk/ws/portalfiles/portal/77631649/Post_print.pdf)|**Video**
+[**Paper**](https://pure.coventry.ac.uk/ws/portalfiles/portal/77631649/Post_print.pdf)
 </div>
 </div>
 
-<!-- Mono6D -->
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">ICIP 2022</div><img src='images/pubs/mono6d/pipeline.png' onmouseout="this.src='images/pubs/mono6d/pipeline.png';" onmouseover="this.src='images/pubs/mono6d/vis_results.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">ICIP 2023</div><img src='images/icippipeline.png' onmouseout="this.src='images/icippipeline.png';" onmouseover="this.src='images/icipresult.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Mono6D: Monocular vehicle 6D pose estimation with 3D priors**
+**Measure4DHand: Dynamic Hand Measurement Extraction From 4D Scans**
 
-**Yangxintong Lyu**, [Remco Royen](https://remcoroyen.github.io/), [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
+**Xinxin Dai**, Ran Zhao, [Pengpeng Hu](https://ai4engineeringlab.netlify.app/), [Vasile Palade](https://pureportal.coventry.ac.uk/en/persons/vasile-palade),[Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
 
 *IEEE International Conference on Image Processing (ICIP)*
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/9897311/)
+[**Paper**](https://pure.coventry.ac.uk/ws/portalfiles/portal/77976801/Post-Print.pdf)|**Video**
 </div>
 </div>
 
-<!-- RGBT -->
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">IET Letters</div><img src='images/pubs/rgbt/pipeline.png' onmouseout="this.src='images/pubs/rgbt/pipeline.png';" onmouseover="this.src='images/pubs/rgbt/vis_result.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
+<!-- KD-Net -->
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">Sensors 2022</div><img src='images/Sensorspipeline.png' onmouseout="this.src='images/Sensorspipeline.png';" onmouseover="this.src='images/Sensorsresult.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Multi-modal neural networks with multi-scale RGB-T fusion for semantic segmentation**
+**KD-Net: Continuous-Keystroke-Dynamics-Based Human Identification from RGB-D Image Sequences**
 
-**Yangxintong Lyu**, Ionut Schiopu, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
-
-*IET Electronics Letters*
-
-[**Paper**](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/el.2020.1635)
-</div>
-</div>
-
-<!-- Curved -->
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">SPIC 2019</div><img src='images/pubs/curved/vr_setting.jpg' onmouseout="this.src='images/pubs/curved/vr_setting.jpg';" onmouseover="this.src='images/pubs/curved/curved_surface.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Consistent video projection on curved displays**
-
-**Yangxintong Lyu**, Shao-Ping Lu, Quentin Bolsee, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
-
-*Elsvier Signal Processing: Image Communication*
-
-[**Paper**](https://www.sciencedirect.com/science/article/pii/S0923596518309457)
-</div>
-</div>
-
-<!-- VMMR -->
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">Sensors 2022</div><img src='images/pubs/vmmr/pipeline.png' onmouseout="this.src='images/pubs/vmmr/pipeline.png';" onmouseover="this.src='images/pubs/vmmr/vis_result.png';" alt="sym" style="height: auto; width: 100%;" object-fit="contain"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Framework for Vehicle Make and Model Recognition—A New Large-Scale Dataset and an Efficient Two-Branch–Two-Stage Deep Learning Architecture**
-
-**Yangxintong Lyu**, Ionut Schiopu, Bruno Cornelis, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
+**Xinxin Dai**, Ran Zhao, [Pengpeng Hu](https://ai4engineeringlab.netlify.app/), [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
 
 *MDPI Sensors*
 
-[**Paper**](https://www.mdpi.com/1424-8220/22/21/8439)  -->
+[**Paper**](https://www.mdpi.com/1424-8220/23/20/8370)|**Video**
+</div>
+</div>
+
+<!-- Point2PartVolume -->
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TIM 2023</div><img src='images/pTIMpipeline.png' onmouseout="this.src='images/pTIMpipeline.png';" onmouseover="this.src='images/pTIMresult.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Point2PartVolume: Human body volume estimation from a single depth image**
+
+[Pengpeng Hu](https://ai4engineeringlab.netlify.app/), **Xinxin Dai**, Ran Zhao, He Wang, Yingliang Ma, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
+
+*IEEE Transactions on Instrumentation and Measurement*
+
+[**Paper**](https://ueaeprints.uea.ac.uk/id/eprint/92413/1/Point2PartVolume_Human_Body_Volume_Estimation_from_A_Single_Depth_Image.pdf)
+</div>
+</div>
+
+<!-- PoseNormNet -->
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TII 2023</div><img src='images/RTIIpipeline.png' onmouseout="this.src='images/RTIIpipeline.png';" onmouseover="this.src='images/RTIIresult.png';" alt="sym" style="height: auto; width: 100%;" object-fit="contain"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PoseNormNet: Identity-Preserved Posture Normalization of 3-D Body Scans in Arbitrary Postures**
+
+Ran Zhao, **Xinxin Dai**, [Pengpeng Hu](https://ai4engineeringlab.netlify.app/), [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
+
+*IEEE transactions on industrial informatics*
+
+[**Paper**](https://pure.coventry.ac.uk/ws/portalfiles/portal/59931669/Post_Print.pdf)
+
+
+
+<!-- impaired point clouds -->
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">Signal Processing 2022</div><img src='images/psppipeline.png' onmouseout="this.src='images/psppipeline.png';" onmouseover="this.src='images/pspresult.png';" alt="sym" style="height: auto; width: 100%;" object-fit="contain"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Predicting high-fidelity human body models from impaired point clouds**
+
+[Pengpeng Hu](https://ai4engineeringlab.netlify.app/), Ran Zhao, **Xinxin Dai**, [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
+
+*Signal Processing*
+
+[**Paper**](https://www.researchgate.net/profile/Pengpeng-Hu/publication/355820238_Predicting_High-fidelity_Human_Body_Models_from_Impaired_Point_Clouds/links/617ffd0ca767a03c14dd65b3/Predicting-High-fidelity-Human-Body-Models-from-Impaired-Point-Clouds.pdf)
+
 
 </div>
 </div>
