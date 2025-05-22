@@ -45,7 +45,7 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TPAMI Under review</div><img src='images/TPAMIpipeline.png' onmouseout="this.src='images/TPAMIpipelinee.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TPAMI Under review</div><img src='images/TPAMIpipeline.png' onmouseout="this.src='images/TPAMIpipeline.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TailoredTemplateFit: Completing and Reconstructing Surface for Partial Point Clouds via Tailored-Template-Based Neural Fitting**
