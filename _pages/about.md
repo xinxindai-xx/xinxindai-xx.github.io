@@ -45,7 +45,7 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 1000px;"><div class="badge">TPAMI Under review</div><img src='images/TPAMIpipeline.png' onmouseout="this.src='images/TPAMIpipelinee.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TPAMI Under review</div><img src='images/TPAMIpipeline.png' onmouseout="this.src='images/TPAMIpipelinee.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TailoredTemplateFit: Completing and Reconstructing Surface for Partial Point Clouds via Tailored-Template-Based Neural Fitting**
@@ -73,7 +73,7 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 1000px;"><div class="badge">ICIP 2023</div><img src='images/icippipeline.png' onmouseout="this.src='images/icippipeline.png';" onmouseover="this.src='images/icipresult.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">ICIP 2023</div><img src='images/icippipeline.png' onmouseout="this.src='images/icippipeline.png';" onmouseover="this.src='images/icipresult.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Measure4DHand: Dynamic Hand Measurement Extraction From 4D Scans**
@@ -87,7 +87,7 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 </div>
 
 <!-- KD-Net -->
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 1000px;"><div class="badge">Sensors 2022</div><img src='images/Sensorspipeline.png' onmouseout="this.src='images/Sensorspipeline.png';" onmouseover="this.src='images/Sensorsresult.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">Sensors 2022</div><img src='images/Sensorspipeline.png' onmouseout="this.src='images/Sensorspipeline.png';" onmouseover="this.src='images/Sensorsresult.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **KD-Net: Continuous-Keystroke-Dynamics-Based Human Identification from RGB-D Image Sequences**
@@ -101,7 +101,7 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 </div>
 
 <!-- Point2PartVolume -->
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 700px;"><div class="badge">TIM 2023</div><img src='images/pTIMpipeline.png' onmouseout="this.src='images/pTIMpipeline.png';" onmouseover="this.src='images/pTIMresult.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TIM 2023</div><img src='images/pTIMpipeline.png' onmouseout="this.src='images/pTIMpipeline.png';" onmouseover="this.src='images/pTIMresult.png';" alt="sym" style="height: 100%; width: auto;" object-fit="contain"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Point2PartVolume: Human body volume estimation from a single depth image**
