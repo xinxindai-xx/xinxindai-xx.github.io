@@ -21,10 +21,9 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 
 
 # 💻 Research Application
-
-<p><span class="bullet">●</span>Hand movement analysis and rehabilitation assessment.</p>
-<p><span class="bullet">●</span>Orthosis design.</p>
-<p><span class="bullet">●</span>Jewelry Customization.</p>
+- Hand movement analysis and rehabilitation assessment.
+- Orthosis design.
+- Jewelry Customization.
 
 <!-- My research interests include but not limited to deep learning, object pose estimation, image semantic segmentation, 2D/3D vision, and domain adaptation. During my Ph.D., my research mainly focus on deep learning based multi-modal data fusion for traffic relevant tasks. -->
 
