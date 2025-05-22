@@ -125,7 +125,8 @@ Ran Zhao, **Xinxin Dai**, [Pengpeng Hu](https://ai4engineeringlab.netlify.app/),
 *IEEE transactions on industrial informatics*
 
 [**Paper**](https://pure.coventry.ac.uk/ws/portalfiles/portal/59931669/Post_Print.pdf)
-
+</div>
+</div>
 
 
 <!-- impaired point clouds -->
