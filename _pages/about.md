@@ -37,8 +37,8 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 
 <span class='anchor' id='experience'></span>
 # 🧗🏻‍♀️ Experience
-- *2020.11 - presnet*, Ph.D. researcher, Vrije Universiteit Brussel.
-- *2019.04 - 2020.09*, Product Solution Engineer, Gosuncn Technology Group. 
+- *2020.11 - present*, Ph.D. researcher, Vrije Universiteit Brussel.
+- *2019.04 - 2020.09*, Image Algorithm Engineer, Gosuncn Technology Group. 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
