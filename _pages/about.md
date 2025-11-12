@@ -44,18 +44,7 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TPAMI Under review</div><img src='images/TPAMIpipeline.png' onmouseout="this.src='images/TPAMIpipeline.png';" alt="sym" style="height: auto; width: 100%;" object-fit="contain"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**TailoredTemplateFit: Completing and Reconstructing Surface for Partial Point Clouds via Tailored-Template-Based Neural Fitting**
-
-**Xinxin Dai**, Ran Zhao, [Pengpeng Hu](https://ai4engineeringlab.netlify.app/), [Vasile Palade](https://pureportal.coventry.ac.uk/en/persons/vasile-palade), [Danilo Mandic](https://www.commsp.ee.ic.ac.uk/~mandic/), [Adrian Munteanu](https://www.etrovub.be/people/member/about-bio/acmuntea/)
-
-*IEEE Transactions on Pattern Analysis and Machine Intelligence*
-
-<!-- [**Paper**](https://pure.coventry.ac.uk/ws/portalfiles/portal/77976801/Post-Print.pdf)|**Video** -->
-</div>
-</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div style="height: 300px; width: 500px;"><div class="badge">TIM 2023</div><img src='images/TIMpipeline.png' onmouseout="this.src='images/TIMpipeline.png';" onmouseover="this.src='images/TIMresult.png';" alt="sym" style="height: auto; width: 100%;" object-fit="contain"></div></div>
