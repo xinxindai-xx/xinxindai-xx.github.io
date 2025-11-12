@@ -32,7 +32,7 @@ I am a Ph.D. researcher at Vrije Universiteit Brussel (ETRO), working under the 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2020.11 - present*, Vrije Universiteit Brussel, Ph.D.
+- *2020.11 - 2025.10*, Vrije Universiteit Brussel, Ph.D.
 - *2016.09 - 2019.06*, Guangdong University of Technology, Master 
 
 <span class='anchor' id='experience'></span>
